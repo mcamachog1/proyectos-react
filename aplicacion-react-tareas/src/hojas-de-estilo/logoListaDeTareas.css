@@ -1,0 +1,11 @@
+.lista-de-tareas-logo-contenedor {
+    width: 100%;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .lista-de-tareas-logo{
+    width: 200px;
+  }
